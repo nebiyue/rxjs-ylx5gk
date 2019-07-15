@@ -7,6 +7,7 @@ class Work {
 
 
   constructor() {
+    
     this.broadcaster = new Subject();
   }
 
